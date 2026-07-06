@@ -1088,7 +1088,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55a3ddf6-6ae1-45ff-85fe-c647f42eee35")
-		(property "Reference" "J6"
+		(property "Reference" "J5"
 			(at 162.56 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1319,7 +1319,7 @@
 		(instances
 			(project "kraky-lite2"
 				(path "/26412b74-f488-4ade-b1b2-7d8b741ec161/c477d776-3a0e-49a9-9044-f493bf435aa9"
-					(reference "J6")
+					(reference "J5")
 					(unit 1)
 				)
 			)

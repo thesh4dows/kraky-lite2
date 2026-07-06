@@ -4856,7 +4856,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd8a359c-3267-4241-8481-2f441bd6dd50")
-		(property "Reference" "J5"
+		(property "Reference" "J4"
 			(at 254 110.8709 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5110,7 +5110,7 @@
 		(instances
 			(project "kraky-lite2"
 				(path "/26412b74-f488-4ade-b1b2-7d8b741ec161/39a83b77-a72f-4a92-8517-973f3254d742"
-					(reference "J5")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -5290,7 +5290,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5ba2586-ed95-4a99-9f9d-f1e2d67c8af8")
-		(property "Reference" "U8"
+		(property "Reference" "U6"
 			(at 144.2086 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5520,7 +5520,7 @@
 		(instances
 			(project "kraky-lite2"
 				(path "/26412b74-f488-4ade-b1b2-7d8b741ec161/39a83b77-a72f-4a92-8517-973f3254d742"
-					(reference "U8")
+					(reference "U6")
 					(unit 1)
 				)
 			)

@@ -4056,7 +4056,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc989921-17b3-4a73-8c26-034386abed59")
-		(property "Reference" "U11"
+		(property "Reference" "U7"
 			(at 145.6533 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4237,7 +4237,7 @@
 		(instances
 			(project "kraky-lite2"
 				(path "/26412b74-f488-4ade-b1b2-7d8b741ec161/ca0b0eeb-c2a7-4755-9312-cac870eddfb2"
-					(reference "U11")
+					(reference "U7")
 					(unit 1)
 				)
 			)
