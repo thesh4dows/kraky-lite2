@@ -3031,6 +3031,12 @@
 		(uuid "1f8bdae3-de4f-4516-8ff1-160e7d79891a")
 	)
 	(junction
+		(at 133.35 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "224f60f9-2102-4c42-a1f1-6ec65d98ff98")
+	)
+	(junction
 		(at 186.69 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3053,6 +3059,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "92552695-d1a6-4c77-90ad-2974bc7f6ff4")
+	)
+	(junction
+		(at 110.49 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95c8c55b-9672-46cc-ae3a-9332f7cb9c65")
 	)
 	(junction
 		(at 254 104.14)
@@ -3101,6 +3113,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e3de5776-5639-41b5-937b-a8ce4ce32af4")
+	)
+	(junction
+		(at 121.92 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ef5d1dfe-7551-4393-88a5-66a87c5202dc")
 	)
 	(junction
 		(at 251.46 104.14)
@@ -3193,6 +3211,16 @@
 			(type default)
 		)
 		(uuid "0b74ad57-364e-460a-bd10-00a211a449fa")
+	)
+	(wire
+		(pts
+			(xy 110.49 120.65) (xy 114.3 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "104db158-f844-4e96-a702-53066548ab67")
 	)
 	(wire
 		(pts
@@ -3386,6 +3414,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 129.54) (xy 121.92 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38655030-6af9-4687-9709-2a3f221ac593")
+	)
+	(wire
+		(pts
 			(xy 161.29 77.47) (xy 163.83 77.47)
 		)
 		(stroke
@@ -3403,6 +3441,16 @@
 			(type default)
 		)
 		(uuid "3a5b7680-d36a-4a90-9565-478810e3b418")
+	)
+	(wire
+		(pts
+			(xy 110.49 128.27) (xy 110.49 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bc3ce85-3c00-4f76-83b0-614bd8cbf9b4")
 	)
 	(wire
 		(pts
@@ -3546,7 +3594,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 120.65) (xy 140.97 120.65)
+			(xy 147.32 120.65) (xy 149.86 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3603,6 +3651,16 @@
 			(type default)
 		)
 		(uuid "66a392b5-a2e9-4ef1-8438-f791770f9100")
+	)
+	(wire
+		(pts
+			(xy 121.92 129.54) (xy 133.35 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67780197-2d6a-44cb-ac8f-307059cea3af")
 	)
 	(wire
 		(pts
@@ -3696,7 +3754,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 120.65) (xy 130.81 120.65)
+			(xy 129.54 120.65) (xy 133.35 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3826,7 +3884,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 120.65) (xy 114.3 120.65)
+			(xy 109.22 120.65) (xy 110.49 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3946,6 +4004,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 120.65) (xy 139.7 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdd9cb79-8d0c-4802-b4d6-bb4d5074be74")
+	)
+	(wire
+		(pts
 			(xy 104.14 77.47) (xy 121.92 77.47)
 		)
 		(stroke
@@ -3953,6 +4021,16 @@
 			(type default)
 		)
 		(uuid "c30a2b47-3660-407d-93ef-ce103da644b3")
+	)
+	(wire
+		(pts
+			(xy 110.49 129.54) (xy 121.92 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8070885-3002-412b-ac5f-2bb1fff66c36")
 	)
 	(wire
 		(pts
@@ -3973,6 +4051,16 @@
 			(type default)
 		)
 		(uuid "cc1a0c39-6629-416a-8002-e48a2288d306")
+	)
+	(wire
+		(pts
+			(xy 133.35 128.27) (xy 133.35 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d17e31db-ecba-4697-b534-cf8eabf840fa")
 	)
 	(wire
 		(pts
@@ -4036,7 +4124,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 128.27) (xy 121.92 132.08)
+			(xy 121.92 128.27) (xy 121.92 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4256,7 +4344,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 140.97 120.65 0)
+		(at 149.86 120.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4266,7 +4354,7 @@
 		)
 		(uuid "72c20365-6aef-4cf0-b282-8af202f2753d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 147.4628 120.65 0)
+			(at 156.3528 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6951,7 +7039,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 134.62 120.65 180)
+		(at 143.51 120.65 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6962,7 +7050,7 @@
 		(fields_autoplaced yes)
 		(uuid "b709b2ef-1d9e-47ae-b930-eab7a0fee9ca")
 		(property "Reference" "D5"
-			(at 134.62 114.3 0)
+			(at 143.51 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6972,7 +7060,7 @@
 			)
 		)
 		(property "Value" "1N5817"
-			(at 134.62 116.84 0)
+			(at 143.51 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6982,7 +7070,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
-			(at 134.62 120.65 0)
+			(at 143.51 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6993,7 +7081,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 120.65 0)
+			(at 143.51 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7004,7 +7092,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 134.62 120.65 0)
+			(at 143.51 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7015,7 +7103,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 134.62 120.65 0)
+			(at 143.51 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7026,7 +7114,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 134.62 120.65 0)
+			(at 143.51 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7465,6 +7553,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 133.35 124.46 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1f7bc9d-5bca-4bc6-975a-831116e0b9d5")
+		(property "Reference" "C36"
+			(at 137.16 123.1899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220 uF"
+			(at 137.16 125.7299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 134.3152 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 133.35 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c8148939-1a20-4258-b7ef-9b64f99d816e")
+		)
+		(pin "1"
+			(uuid "9bf3b77a-16ee-40a5-a602-68a2acc33f42")
+		)
+		(instances
+			(project "kraky-lite2"
+				(path "/26412b74-f488-4ade-b1b2-7d8b741ec161/3ba92837-1463-4f85-8e55-d75ec08845c6"
+					(reference "C36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 172.72 85.09 0)
 		(unit 1)
@@ -7537,6 +7707,88 @@
 			(project "kraky-lite2"
 				(path "/26412b74-f488-4ade-b1b2-7d8b741ec161/3ba92837-1463-4f85-8e55-d75ec08845c6"
 					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 110.49 124.46 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e6122787-b384-437b-9643-10e56606d5a1")
+		(property "Reference" "C35"
+			(at 114.3 123.1899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220 uF"
+			(at 114.3 125.7299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 111.4552 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 110.49 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 110.49 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a75b8141-f00e-4b32-9f07-94ff0d8cb2a3")
+		)
+		(pin "1"
+			(uuid "70e07b51-9c14-4b18-b295-cf5099f1b5dd")
+		)
+		(instances
+			(project "kraky-lite2"
+				(path "/26412b74-f488-4ade-b1b2-7d8b741ec161/3ba92837-1463-4f85-8e55-d75ec08845c6"
+					(reference "C35")
 					(unit 1)
 				)
 			)
