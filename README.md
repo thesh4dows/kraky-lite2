@@ -22,7 +22,7 @@ tht modules so i can do some expirience soldering very small parts and stopping 
 | wifi | **nrf24l01** |
 | Sub-GHz | **CC1101** |
 | Battery charger | **CN3163** |
-| Battery | li-ion |
+| Battery | **INR18650** |
 | microSD Slot | **MSD4A** |
 | Buttons | 1 tactile buttons and a rotary encoder |
 | Display | TFT Display |
