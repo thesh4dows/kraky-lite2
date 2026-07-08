@@ -1846,16 +1846,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 114.3) (xy 128.27 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09d85932-5775-4d71-9381-77be73ff589e")
-	)
-	(wire
-		(pts
 			(xy 158.75 114.3) (xy 161.29 114.3)
 		)
 		(stroke
@@ -1956,16 +1946,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 111.76) (xy 128.27 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49dda211-3983-42b1-89ea-79aa879a7702")
-	)
-	(wire
-		(pts
 			(xy 140.97 40.64) (xy 140.97 46.99)
 		)
 		(stroke
@@ -1973,6 +1953,16 @@
 			(type default)
 		)
 		(uuid "51f65a7b-b434-447a-ac2a-a15d1cf2b36c")
+	)
+	(wire
+		(pts
+			(xy 158.75 81.28) (xy 161.29 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5da92443-45ff-42a7-92e7-d5ba9ffd20b8")
 	)
 	(wire
 		(pts
@@ -1993,6 +1983,16 @@
 			(type default)
 		)
 		(uuid "61de9a6c-4ee2-47b9-9f5a-95bfc85475e0")
+	)
+	(wire
+		(pts
+			(xy 158.75 78.74) (xy 161.29 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "660ccd6c-5c98-4fb4-8ed9-9c5c577cd2c0")
 	)
 	(wire
 		(pts
@@ -2266,17 +2266,17 @@
 	)
 	(global_label "TX"
 		(shape input)
-		(at 125.73 111.76 180)
+		(at 161.29 78.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "02c83770-1ac1-4f79-80f4-c7be555bcd72")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.5677 111.76 0)
+			(at 166.4523 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2284,7 +2284,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
@@ -2338,17 +2338,17 @@
 	)
 	(global_label "RX"
 		(shape input)
-		(at 125.73 114.3 180)
+		(at 161.29 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "14022d50-a30b-4a89-b1da-2d8304ac8378")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.2653 114.3 0)
+			(at 166.7547 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2356,7 +2356,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
