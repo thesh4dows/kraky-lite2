@@ -38,7 +38,7 @@ tht modules so i can do some expirience soldering very small parts and stopping 
 
  # POWER DELIVERY SYSTEM
  
-<img width="1012" height="493" alt="Screenshot 2026-07-06 142901" src="https://github.com/user-attachments/assets/456cf19c-3c28-4349-a69c-c47645691584" />
+<img width="1208" height="582" alt="Screenshot 2026-07-08 101438" src="https://github.com/user-attachments/assets/c93cb07e-5235-4c30-ab84-53a5e409fe1f" />
 
 
 # WIFI
@@ -65,14 +65,14 @@ tht modules so i can do some expirience soldering very small parts and stopping 
 
 # PCB
 
-<img width="1137" height="752" alt="Screenshot 2026-07-06 143114" src="https://github.com/user-attachments/assets/badd89fb-ba58-4e69-a907-c8f698f8bf48" />
+<img width="1170" height="777" alt="Screenshot 2026-07-08 101512" src="https://github.com/user-attachments/assets/42f4f7f3-f111-46d2-94eb-54c03b408d2e" />
 
 
 ---
 
 # 3D render
 
-<img width="1085" height="686" alt="Screenshot 2026-07-06 143213" src="https://github.com/user-attachments/assets/4ec374e4-ba68-4ba5-9cba-944bb518805a" />
+<img width="1117" height="693" alt="Screenshot 2026-07-08 101557" src="https://github.com/user-attachments/assets/97a8267f-a92e-4873-a19a-755f06b52962" />
 
 ---
 
