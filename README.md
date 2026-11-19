@@ -65,14 +65,16 @@ tht modules so i can do some expirience soldering very small parts and stopping 
 
 # PCB
 
-<img width="1170" height="777" alt="Screenshot 2026-07-08 101512" src="https://github.com/user-attachments/assets/42f4f7f3-f111-46d2-94eb-54c03b408d2e" />
+<img width="1052" height="656" alt="Screenshot 2026-11-19 210810" src="https://github.com/user-attachments/assets/ce455f3d-3cd3-4228-8037-22de5c660c98" />
+
 
 
 ---
 
 # 3D render
 
-<img width="1117" height="693" alt="Screenshot 2026-07-08 101557" src="https://github.com/user-attachments/assets/97a8267f-a92e-4873-a19a-755f06b52962" />
+<img width="1095" height="678" alt="Screenshot 2026-11-19 210832" src="https://github.com/user-attachments/assets/d130d7de-bfbc-46a8-b2c2-514bc9922752" />
+
 
 ---
 
