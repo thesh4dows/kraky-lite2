@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.46,
+          "height": 0.97,
+          "width": 0.97
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -726,7 +726,7 @@
           "show": false
         }
       ],
-      "filter_string": "R",
+      "filter_string": "C39",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
@@ -762,6 +762,14 @@
     "meta": {
       "version": 1
     },
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -774,7 +782,7 @@
         "uuid": "26412b74-f488-4ade-b1b2-7d8b741ec161"
       }
     ],
-    "used_designators": "R9-11,#PWR50,D5-6,H1-4",
+    "used_designators": "D7-8",
     "variants": []
   },
   "sheets": [
